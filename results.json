@@ -1,0 +1,12 @@
+[
+  {
+    "Port": 22,
+    "Open": true,
+    "Banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13"
+  },
+  {
+    "Port": 80,
+    "Open": true,
+    "Banner": ""
+  }
+]
