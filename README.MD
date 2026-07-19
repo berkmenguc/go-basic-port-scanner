@@ -7,9 +7,9 @@
 
 ## Kurulum:
 
-git clone ...
-cd go-basic-port-scanner
-go build -o goscanner ./cmd/goscanner
+- git clone ...
+- cd go-basic-port-scanner
+- go build -o goscanner ./cmd/goscanner
 
 ## Örnek kullanım:
 
